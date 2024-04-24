@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+/* title header start */
+h1 {
+    color: blue;
+    text-align: center;
+}
+/* title header end */
+
+/* paragraph start */
+p {
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+    font-size:larger ;
+}
+/* paragraph end */
+
+/* box model start */
+.box_model {
+    text-align: center;
+    height: 350px;
+    width: 350px;
+    border: 2px solid black;
+    padding: 40px;
+    margin: 20px;
+    border-radius: 15px;
+}
+/* box model end */
+
+/* box header start */
+#Box_text {
+    font-size: xx-large;
+    text-decoration: wavy;
+}
+/* box header end */
+
+/* box span start */
+.Box_text_2 {
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif
+}
+/* box span end */
